@@ -1,3 +1,5 @@
+Forked this from: https://www.reddit.com/r/reinforcementlearning/comments/huz94a/pytorch_starter_code_for_uc_berkeleys_deep_rl/
+
 # UC Berkeley Deep RL in Pytorch
 
 Pytorch starter code for [UC Berkeley's CS285 Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/). The code is meant to be used as a direct alternative to the [official HW repository](https://github.com/berkeleydeeprlcourse/homework_fall2019) for those who would rather complete the course assignments in pytorch. [Solutions to this starter code is available](https://github.com/mdeib/berkeley-deep-RL-pytorch-solutions).
